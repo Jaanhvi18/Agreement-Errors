@@ -1,0 +1,26 @@
+Most Vulnerable Structures (highest average performance drop):
+Structure 14: 31.42% average drop
+Structure 3: 27.67% average drop
+Structure 7: 27.21% average drop
+
+Most Stable Structures (lowest performance variance):
+Structure 6: 1.61 stability score
+Structure 10: 1.84 stability score
+Structure 4: 1.85 stability score
+
+Fastest Degrading Structures (steepest performance decline):
+Structure 3: -1.053 degradation rate
+Structure 7: -1.053 degradation rate
+Structure 14: -0.948 degradation rate
+
+Critical Error Thresholds:
+Structure 0: 50% error level
+Structure 2: 5% error level
+Structure 3: 10% error level
+Structure 5: 50% error level
+Structure 7: 10% error level
+Structure 8: 10% error level
+Structure 11: 15% error level
+Structure 14: 10% error level
+
+Structure Interactions:

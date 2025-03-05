@@ -1,0 +1,16 @@
+exp: MinimalPair
+
+mode: 
+  - evaluate
+
+models:
+      hf_causal_model:
+          - colorlessGreenModel
+
+datafpath: NLPScholar/eval_0.tsv
+
+predfpath: NLPScholar/pred.tsv
+
+# modelfpath: colorlessGreenModel
+
+loadPretrained: False

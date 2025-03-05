@@ -1,0 +1,16 @@
+exp: MinimalPair
+
+mode: 
+  - train
+
+models:
+      hf_causal_model:
+          - gpt2
+
+trainfpath: /datalake/fdavis/ModelingErrors/output_train.tsv
+
+validfpath: /datalake/fdavis/ModelingErrors/output_valid.tsv
+
+modelfpath: colorlessGreenModel
+
+loadPretrained: False

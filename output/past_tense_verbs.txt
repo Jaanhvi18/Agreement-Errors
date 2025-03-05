@@ -1,0 +1,7 @@
+early read
+early run
+late read
+new read
+ornate read
+read
+run

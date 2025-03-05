@@ -1,0 +1,13 @@
+--- Structure Frequencies ---
+NP -> RC -> VP: 106
+NP -> RC -> RC -> VP: 4
+
+--- Found Structures (NP RC RC VP Pattern) ---
+Sentence: The doors which our guilty key speak guilty.
+NP: doors, RC_Subj: key, RC_Verb: speak, VP: guilty
+Sentence: The doors who our new chairs have new.
+NP: doors, RC_Subj: chairs, RC_Verb: have, VP: new
+Sentence: The door which our innocent key read innocent.
+NP: door, RC_Subj: key, RC_Verb: read, VP: innocent
+Sentence: The door who our ornate cabinet speak ornate.
+NP: door, RC_Subj: cabinet, RC_Verb: speak, VP: ornate
